@@ -1,0 +1,97 @@
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    }
+    .test1 {
+        text-decoration: none;
+        font-size: large;
+        font-weight: bold;
+        
+        color: rgb(162, 0, 255);
+        width: 500px;
+       
+
+    }
+    .header> h3{
+        border: 2px solid red ;
+        text-align: center;
+font-size: large;
+font-weight: bold;
+color: red;
+    }
+    
+    
+    
+    h3{
+        background-image:
+        linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
+        url('image.jpeg');
+      
+padding-top: 20px;
+     
+        border: 2px solid red ;
+        width: 300px;
+        height: 50px;
+        font-size: large;
+        font-weight: bold;
+        color: red;
+      
+    }
+  header>h2 {
+    list-style: none;
+    float: right;
+display: flex;
+    margin-top: 20px;
+    color: brown;
+    
+    
+        
+
+    }
+    #img1{
+        border: 2px solid blue;
+        width: 800px;
+        height: 400px;
+    }
+    #Culture{
+        font-size: x-large;
+        font-weight: bold;
+        color: red;
+            
+    }
+    #Sahara{
+        font-size: x-large;
+        font-weight: bold;
+        color: red;
+            
+    }
+    #Saveurs{
+        font-size: x-large;
+        font-weight: bold;
+        color: red;
+            
+    }
+    p{  
+
+        text-align: center;
+        border: 2px solid blue ;
+        width: 800px;
+        height: 200px;
+        padding: 20px;
+margin: 20px 20px;
+
+    }
+    #video{
+        border: 2px solid red ;
+
+color: blue;
+
+    }
+    
